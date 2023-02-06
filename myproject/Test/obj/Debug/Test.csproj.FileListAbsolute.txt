@@ -1,0 +1,11 @@
+C:\Users\naima\source\repos\myproject\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\myproject\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\myproject\Test\bin\Debug\Test.exe.config
+C:\Users\naima\source\repos\myproject\Test\bin\Debug\Test.exe
+C:\Users\naima\source\repos\myproject\Test\bin\Debug\Test.pdb
+C:\Users\naima\source\repos\myproject\Test\bin\Debug\myproject.exe
+C:\Users\naima\source\repos\myproject\Test\bin\Debug\myproject.pdb
+C:\Users\naima\source\repos\myproject\Test\bin\Debug\myproject.exe.config
+C:\Users\naima\source\repos\myproject\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\naima\source\repos\myproject\Test\obj\Debug\Test.exe
+C:\Users\naima\source\repos\myproject\Test\obj\Debug\Test.pdb

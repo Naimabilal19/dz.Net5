@@ -1,0 +1,7 @@
+C:\Users\naima\source\repos\myproject\myproject\obj\Debug\myproject.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\myproject\myproject\obj\Debug\myproject.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\myproject\myproject\bin\Debug\myproject.exe.config
+C:\Users\naima\source\repos\myproject\myproject\bin\Debug\myproject.exe
+C:\Users\naima\source\repos\myproject\myproject\bin\Debug\myproject.pdb
+C:\Users\naima\source\repos\myproject\myproject\obj\Debug\myproject.exe
+C:\Users\naima\source\repos\myproject\myproject\obj\Debug\myproject.pdb
